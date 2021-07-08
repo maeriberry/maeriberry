@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+<style>
+* {box-sizing: border-box; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45); font-family: monospace;}
+
+.box {margin: 0; width: 100%; font-size: 15pt; text-transform: lowercase; text-align: center; color: #9542D8;}
+
+.main {display: flex; flex-wrap: wrap; align-content: center;}
+.left {flex: 35%; padding: 5pt; text-align: left; }
+.right {flex: 15%; text-align:left;}
+
+.htmlcss-bar, .js-bar, .py-bar {height: 10pt; padding: 15pt; margin-bottom: 5pt; border-radius: 2pt; box-shadow: 5px 10px 8px rgba(0,0,0,0.20); color: whitesmoke;}
+
+.htmlcss-bar {width: 73%; background-image: linear-gradient(to right, #A270BC 0%, #8631B2 100%);}
+.js-bar {width: 55%; background-image: linear-gradient(to right, #6576B5 0%, #40508D 100%);}
+.py-bar {width: 50%; background-image: linear-gradient(to right, #89BAD1 0%, #418DAF 100%);}
+
+.bar-span {align-items: center; display: flex; justify-content: center; height: 100%;}
+</style>
+
+<div class="box">
+<p><i>Scientia, aere perennius.</i></p>
+
+<div class="main">
+<div class="left">
+<p>Aspiring polymath.</p>
+<p>artwork admirer.</p>
+<p>tea fanatic.</p>
+<p>Please treat me kindly 💜</p>
+</div>
+
+<div class="right">
+<p>skillset.</p>
+<div class="htmlcss-bar"><span class="bar-span">HTML+CSS</span></div>
+<div class="js-bar"><span class="bar-span">Javascript</span></div>
+<div class="py-bar"><span class="bar-span">Python</span></div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</foreignObject>
+</svg>
